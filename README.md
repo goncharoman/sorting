@@ -1,5 +1,5 @@
 # Sorting algorithms
-![](/Users/roman/Projects/c/sorting/images/title.jpg)
+![title](./images/title.jpg)
 
 ## Bubble sort
 
